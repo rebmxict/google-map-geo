@@ -1,0 +1,28 @@
+.wpgmza_carousel_image_holder img { 
+    width: auto;
+margin: 0 auto;
+display: block;
+}
+.wpgmza_carousel_info_holder { 
+    margin: 5px 0 0;
+}
+.wpgmza_marker_carousel .item {
+    padding: 30px 0px;
+margin: 10px;
+color: #FFF;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+text-align: center;
+}
+.wpgmza_marker_carousel .item .wpgmza_marker_title {
+    font-weight:bold;
+    font-size:1.3em;
+    
+}
+.wpgmza_carousel_odd {
+    background: #388bd1;
+}
+.wpgmza_carousel_even {
+    background: #a1def8;
+}

@@ -1,0 +1,99 @@
+.wpgmza_modern_infowindow {
+    height: 30vh  !important;
+    width: 30vh !important;
+    left: 10px !important;
+    top: 10% !important;
+    box-shadow: none;
+    background-color: #2A3744;
+    padding: 0px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.wpgmza_iw_title {
+   top: 30%;
+   left: 0px;
+   right: 0px;
+   bottom: 0px;
+   width: inherit;
+   background: transparent;
+   color: white;
+   font-size: 23px;
+   padding: 20px;
+}
+
+.wpgmza_modern_infowindow_inner_1 {
+    height: 100% !important;
+    width: 35% !important;
+    overflow: hidden;
+}
+
+.wpgmza_modern_infowindow_inner {
+    max-height: 100%;
+}
+
+.wpgmza_iw_image {
+    width: 100%;
+    height: 30%;
+    max-height: inherit;
+    overflow: hidden;
+    position: absolute;
+}
+
+.wpgmza_iw_image img{
+    margin-left:0px !important;
+    max-height: none !important;
+    max-width: 100% !important;
+}
+
+.wpgmza_iw_address, .wpgmza_iw_description {
+    position: absolute;
+    left: 0px;
+    color: white;
+    top: 38%;
+    right: 10px;
+    width: inherit;
+    padding: 20px;
+}
+
+.wpgmza_iw_address{
+    font-size: 10px;
+    overflow: hidden;
+    width: 90% !important;
+}
+
+.wpgmza_iw_description {
+    top: 50%;
+    font-size: 13px;
+    bottom: 30%;
+    max-height: inherit;
+}
+
+.wpgmza_iw_buttons {
+    position: absolute;
+    left: 0px;
+    bottom: 5%;
+    right: 0px;
+}
+
+.wpgmza_button {
+    border: none !important;
+    left: 0;
+    width: 100%;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-color: #252F3A ;
+    margin-top: 2px !important;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    padding: inherit;
+    font-family: sans-serif !important;
+}
+
+.wpgmza_modern_infowindow_close {
+    position: relative;
+    color: #BCBCBC;
+    font-size: 12px;
+}
